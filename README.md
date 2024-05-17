@@ -1,15 +1,15 @@
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1> 
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h3>
 
 <p align="left">
 As a dedicated and experienced software engineer, I specialize in creating dynamic, responsive web applications with a focus on exceptional user experiences. My technical expertise spans HTML, CSS, Bootstrap, JavaScript, TypeScript, ReactJS, and SQL for efficient database management.<br><br>
 I am skilled in unit testing, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), and version control with Git. Proficient in using npm/yarn for package management and tools like Webpack for efficient builds, I ensure high-quality, maintainable code through thorough testing and debugging practices.<br><br>
 My background includes specialization in telecommunications automation and a passion for performance optimization, accessibility, and cross-browser compatibility. With strong problem-solving skills and a commitment to continuous learning, I thrive in collaborative environments and am always eager to take on new challenges.<br><br>
 Holder of a Web Design certification from FreeCodeCamp and currently pursuing an ALX Software Engineering Certification, I am dedicated to continuous learning and growth. Let's collaborate to build something amazing together!
-</p>
+</p> 
 
 ###
 
@@ -52,6 +52,8 @@ Holder of a Web Design certification from FreeCodeCamp and currently pursuing an
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js logo" />
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
@@ -60,15 +62,24 @@ Holder of a Web Design certification from FreeCodeCamp and currently pursuing an
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" height="40" alt="yarn logo" />
   <img width="12" />
+  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo" />
-<img width="12" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
 <img width="12" />
 
+
+
 </div>
+<br>
+
+### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
+<!-- BLOG-POST-LIST:START -->
+- [The Hidden Dance of the Internet: How You Get to Google with a Simple Click🤳🏾](https://www.linkedin.com/posts/ifeoluwa-adeniran-09183a1ba_internet-webbrowsing-technology-activity-7196128033055879168-vT4o?utm_source=share&utm_medium=member_desktop)
+<br>
 
 ###
 
